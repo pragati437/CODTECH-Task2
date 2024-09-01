@@ -18,3 +18,6 @@ Introduction: The game starts with a welcome message and instructions for answer
 Quiz Loop: The game presents each question one by one, prompts the user to input their answer, and then checks if the answer is correct. It displays a message indicating whether the answer was correct or incorrect.
 Final Score: Once all questions are answered, the game calculates and displays the final score.
 Feedback: Based on the player's score, the game gives feedback ranging from "Excellent!" for a perfect score to "Better luck next time!" for a score of zero.
+
+
+![image alt](https://github.com/pragati437/CODTECH-task-1/blob/main/task2%20output.png?raw=true)
